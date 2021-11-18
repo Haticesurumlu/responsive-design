@@ -100,3 +100,10 @@ padding: 2rem;
 .col-content{
     padding: 1.5rem;
 }
+
+/* section-c */
+#section-c{
+    background-color: #eaeaea;
+    color: #333;
+    padding: 5rem;
+}
