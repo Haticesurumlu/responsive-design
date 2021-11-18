@@ -113,6 +113,6 @@ padding: 2rem;
 #section-d .box{
     padding: 5rem;
 }
-#section-d .box :first-child{
+#section-d .box:first-child{
     background-color: #2690d4;
 }
