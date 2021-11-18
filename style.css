@@ -30,6 +30,11 @@ p{
 
 }
 
+img{
+    width: 100%;
+    height: auto;
+}
+
 
 /* header */
 header{
@@ -67,4 +72,27 @@ header h1{
 .btn:hover{
     background-color: #eaeaea;
     color: #333;
+}
+
+/* section-a */
+#section-a{
+    background-color: #eaeaea;
+    color: #333;
+    padding: 3.2 rem 0;
+}
+
+/* section-b */
+
+#section-b{
+padding: 2rem;
+}
+
+#section-b ul{
+    list-style: none;
+}
+
+#section-b ul li{
+    background-color:#fff;
+    color: #333;
+    margin-bottom: 1.5rem;
 }
