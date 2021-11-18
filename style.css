@@ -107,3 +107,8 @@ padding: 2rem;
     color: #333;
     padding: 5rem;
 }
+
+/* section-d */
+#section-d .box :first-child{
+    background-color: #2690d4;
+}
