@@ -31,7 +31,16 @@ p{
 
 /* header */
 header{
-    height: 45rem;
-    background-color: red;
+    height: 90rem;
+    background-color:red;
 }
 
+header .bg-image{
+    background-image: 
+    url(img/bg.jpeg);
+    height: 45rem;
+    width: 100%;
+    background-size: cover;
+    background-position:center;
+    opacity: 0.4;
+}
