@@ -116,3 +116,16 @@ padding: 2rem;
 #section-d .box:first-child{
     background-color: #2690d4;
 }
+
+
+/* footer */
+
+footer{
+    padding: 4rem;
+    background:#000;
+
+}
+
+footer a{
+    color: #2690d4;
+}
