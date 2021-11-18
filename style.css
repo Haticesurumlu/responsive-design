@@ -61,4 +61,10 @@ header h1{
     padding: 1.6rem 3.2rem;
     margin: .5rem 0;
     display: inline-block;
+    transition: all 0.3s;
+}
+
+.btn:hover{
+    background-color: #eaeaea;
+    color: #333;
 }
