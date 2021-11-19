@@ -129,3 +129,11 @@ footer{
 footer a{
     color: #2690d4;
 }
+
+@media screen and (min-width:700px){
+    #section-b li{
+        width: 28%;
+        margin:1%;
+        display: inline-block;
+    }
+}
