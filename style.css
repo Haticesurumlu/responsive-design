@@ -35,6 +35,11 @@ img{
     height: auto;
 }
 
+.clearfix::after{
+    content:"" ;
+    display: block;
+    clear: both;
+}
 
 /* header */
 header{
